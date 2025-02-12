@@ -5,6 +5,9 @@
 </div>
 
 <p align="center">
+  already merged in official repo, please visit：https://github.com/infiniflow/ragflow
+</p>
+<p align="center">
   <a href="./README.md">English</a> |
   <a href="./README_zh.md">简体中文</a> |
   <a href="./README_tzh.md">繁体中文</a> |
